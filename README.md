@@ -34,7 +34,6 @@ git clone https://github.com/Shreyaaaaaak/chess-game.git
 - Players alternate turns — White goes first
 - The turn indicator updates after each move
 
-## 📸 Preview
-![alt text](image.png)
+
 
 
