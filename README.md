@@ -34,7 +34,7 @@ git clone https://github.com/Shreyaaaaaak/chess-game.git
 - Players alternate turns — White goes first
 - The turn indicator updates after each move
 ## Working website
-- javascript-chess-game-production.up.railway.app
+-Link :-  https://javascript-chess-game-production.up.railway.app/
 
 
 
