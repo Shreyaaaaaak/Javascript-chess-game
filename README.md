@@ -2,7 +2,7 @@
 
 > A fully interactive chess game built with vanilla HTML, CSS, and JavaScript — featuring neon glow animations, move highlighting, and turn-based gameplay.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=flat-square&logo=railway)](https://javascript-chess-game-production.up.railway.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=flat-square&logo=railway)]([https://javascript-chess-game-production.up.railway.app/](https://javascript-chess-game-nine.vercel.app/))
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
